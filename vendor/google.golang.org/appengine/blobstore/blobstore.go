@@ -4,7 +4,7 @@
 
 // Package blobstore provides a client for App Engine's persistent blob
 // storage service.
-package blobstore // import "google.golang.org/appengine/blobstore"
+package blobstore
 
 import (
 	"bufio"
