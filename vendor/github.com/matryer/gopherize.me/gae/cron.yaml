@@ -1,5 +1,0 @@
-cron:
-- description: daily artwork update
-  url: /api/artwork?nocache=true
-  target: default
-  schedule: every 24 hours

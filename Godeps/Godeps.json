@@ -295,6 +295,11 @@
 			"Rev": "6253aa9397d3f97c06b2c67e2b2965b558b3705f"
 		},
 		{
+			"ImportPath": "google.golang.org/grpc/balancer/roundrobin",
+			"Comment": "v1.2.0-338-g6253aa9",
+			"Rev": "6253aa9397d3f97c06b2c67e2b2965b558b3705f"
+		},
+		{
 			"ImportPath": "google.golang.org/grpc/codes",
 			"Comment": "v1.2.0-338-g6253aa9",
 			"Rev": "6253aa9397d3f97c06b2c67e2b2965b558b3705f"
@@ -306,6 +311,11 @@
 		},
 		{
 			"ImportPath": "google.golang.org/grpc/credentials",
+			"Comment": "v1.2.0-338-g6253aa9",
+			"Rev": "6253aa9397d3f97c06b2c67e2b2965b558b3705f"
+		},
+		{
+			"ImportPath": "google.golang.org/grpc/encoding",
 			"Comment": "v1.2.0-338-g6253aa9",
 			"Rev": "6253aa9397d3f97c06b2c67e2b2965b558b3705f"
 		},
@@ -346,6 +356,16 @@
 		},
 		{
 			"ImportPath": "google.golang.org/grpc/resolver",
+			"Comment": "v1.2.0-338-g6253aa9",
+			"Rev": "6253aa9397d3f97c06b2c67e2b2965b558b3705f"
+		},
+		{
+			"ImportPath": "google.golang.org/grpc/resolver/dns",
+			"Comment": "v1.2.0-338-g6253aa9",
+			"Rev": "6253aa9397d3f97c06b2c67e2b2965b558b3705f"
+		},
+		{
+			"ImportPath": "google.golang.org/grpc/resolver/passthrough",
 			"Comment": "v1.2.0-338-g6253aa9",
 			"Rev": "6253aa9397d3f97c06b2c67e2b2965b558b3705f"
 		},
