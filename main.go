@@ -6,7 +6,7 @@ import (
 	"net/http"
 
 	gopherizeme "github.com/matryer/gopherize.me/server"
-	"github.com/meyskens/wwg-welcome/gopherize"
+	"github.com/mom0tomo/wwg-welcome/gopherize"
 )
 
 var categories map[string]gopherizeme.Category // not that they are new images every day right?
