@@ -1,1 +1,1 @@
-web: wwg-welcome
+web: ./wwg-welcome
